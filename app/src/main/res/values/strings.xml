@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">E-RAIL</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="username">Name: </string>
+    <string name="userage">Age: </string>
+    <string name="usermobileno">Mobile No.: </string>
+    <string name="typeticket">Ticket for Service: </string>
+    <string name="typeservice">Service Type: </string>
+    <string name="departure">Departure From: </string>
+    <string name="arrival">Arrival To: </string>
+    <string name="datebook">Date: </string>
+    <string name="timebook">Time: </string>
+    <string-array name="ticket_type">
+        <item>EXPRESS/MAIL</item>
+        <item>RAJDHANI/SHATABDI</item>
+        <item>HUMSAFAR/DURONTO/..</item>
+        <!--<item>Live Concert</item>-->
+    </string-array>
+    <string-array name="train_type">
+        <item>22666 UDAY EXPRESS</item>
+        <item>12007 MYS SHATABDI</item>
+        <item>12951 TEJAS RAJDHANI </item>
+        <item>12953 AK RAJDHANI</item>
+        <item>12080 JAN SHATABDI</item>
+        <item>12650 KSK EXPRESS</item>
+        <item>12245 HOWRAH DURONTO </item>
+        <item>22691 BANGALORE RAJDHANI </item>
+        <item>22221 CR RAJDHANI EXP </item>
+        <item>12423 Dibrugarh RAJDHANI EXP</item>
+        <item>12434 NZM MAS RAJDHANI </item>
+        <item>12438 SC RAJDHANI </item>
+        <item>12301 Howrah RAJDHANI EXP</item>
+        <item>12425 JAMMU RAJDHANI </item>
+        <item>12958 ADI SJ RAJDHANI </item>
+        <item>12039 NDLS SHATABADI </item>
+        <item>12028 Ksr Bengaluru SHATABDI EXP</item>
+        <item>12031 ASR SHATBDI EXP  </item>
+        <item>12015 AJMER SHATABDI </item>
+        <item>12045 NDLS CDG SHTBDI </item>
+    </string-array>
+    <string-array name="bus_type">
+        <item>12628 KARNATAKA EXPRESS</item>
+        <item>16023 MALGUDI EXPRESS</item>
+        <item>18463 PRASHANTI EXPRESS</item>
+        <item>17307 BASAVA EXPRESS</item>
+        <item>16315 KOCHUVELI EXPRESS</item>
+        <item>12614 TIPPU EXPRESS</item>
+        <item>12650 KSK EXPRESS</item>
+        <item>11013 KURLA EXPRESS</item>
+        <item>16592 HAMPI EXPRESS</item>
+        <item>12607 LALBAGH EXPRESS</item>
+        <item>12657 BANGALORE MAIL</item>
+        <item>12779 GOA EXPRESS</item>
+        <item>12626 KERALA EXPRESS</item>
+        <item>16526 ISLAND EXPRESS</item>
+        <item>12296 SANGAMITRA EXPRESS</item>
+        <item>11302 UDYAN EXPRESS</item>
+        <item>12723	AP EXPRESS</item>
+        <item>12707	APSK EXPRESS</item>
+        <item>16501	Adi Ypr Express</item>
+        <item>11022	Chalukya Express</item>
+        <item>16215	Chamundi Express</item>
+        <item>12641	Tirukkural Express</item>
+        <item>11069	Tulsi Express</item>
+        <item>12328	Upasana Express</item>
+        <item>16732	Tuticorin Express</item>
+
+
+    </string-array>
+    <string-array name="flight_type">
+        <item>12297 PUNE DURONTO</item>
+        <item>12260 SDAH DURONTO</item>
+        <item>12213 YPR DEE DURONTO</item>
+        <item>12246 Yasvantpur DURONTO EXPRESS</item>
+        <item>22204 VSKP DURONTO</item>
+        <item>12294 LTT DURONTO</item>
+        <item>22210 MMCT DURONTO</item>
+        <item>12080 JANSHATABDI EXP</item>
+        <item>12081 TVC JANSHATABDI	</item>
+        <item>12052 CSMT JANSHTABDI	</item>
+        <item>112077 BZA JANSHATABDI</item>
+        <item>12504 HUMSAFAR EXP</item>
+        <item>16320 KCVL HUMSAFAR</item>
+        <item>22887 YPR HUMSAFAR</item>
+        <item>16319 SMVB HUMSAFAR</item>
+        <item>22834 BBS HUMSAFAR</item>
+        <item>20822 PUNE HUMSAFAR</item>
+        <item>12735 YPR GARIBRATH EXP</item>
+        <item>12881 PURI GARIB RATH</item>
+        <item>12257 KCVL GARIBRATH</item>
+    </string-array>
+    <string-array name="live_concert">
+        <item>DJ Concert</item>
+        <item>Singer Concert</item>
+        <item>Musician Band Concert</item>
+    </string-array>
+    <string-array name="person_in_concert">
+        <item>DJ Chetas and Lijo George</item>
+        <item>DJ Notorious</item>
+        <item>DJ NYK</item>
+        <item>DJ Aqeel</item>
+        <item>DJ Angel</item>
+        <item>Armaan Malik</item>
+        <item>Darshan Raval</item>
+        <item>Arijit Singh</item>
+        <item>Justin Bieber</item>
+        <item>Ed Sheeran</item>
+        <item>Salim-Sulaiman</item>
+        <item>Vishal-Shekhar</item>
+        <item>Lost Stories-Zaedan</item>
+        <item>The Chainsmokers</item>
+        <item>Jonas Brothers</item>
+    </string-array>
+    <string-array name="india_top_places">
+        <item>KSR Bengaluru</item>
+        <item>Yesvantpur</item>
+        <item>Mysuru</item>
+        <item>Mangaluru</item>
+        <item>Hubbali</item>
+        <item>Mandya</item>
+        <item>Shivamogga</item>
+        <item>Chennai</item>
+        <item>Madurai</item>
+        <item>Puducherry</item>
+        <item>Rameswaram</item>
+        <item>Kanyakumari</item>
+        <item>Arakkonam</item>
+        <item>Katpadi</item>
+        <item>Jolapettai</item>
+        <item>Trivandrum</item>
+        <item>Ernakulam</item>
+        <item>Kochuveli</item>
+        <item>Kollam</item>
+        <item>Coimbatore</item>
+        <item>Erode</item>
+        <item>Salem</item>
+        <item>Udupi</item>
+        <item>Karwar</item>
+        <item>Belagavi</item>
+        <item>Londa</item>
+        <item>Bagalkot</item>
+        <item>Miraj</item>
+        <item>Bilaspur</item>
+        <item>Tirupati</item>
+        <item>Renigunta</item>
+        <item>Vijaywada</item>
+        <item>Vizag</item>
+        <item>Kacheguda</item>
+        <item>Secundrabad</item>
+        <item>Hyderabad</item>
+        <item>Guntakal</item>
+        <item>Ballari</item>
+        <item>Kakinada</item>
+        <item>Puri</item>
+        <item>Howrah</item>
+        <item>Kolkatta</item>
+        <item>Sealdah</item>
+        <item>Asansol</item>
+        <item>Patna</item>
+        <item>Danapur</item>
+        <item>Madgoan</item>
+        <item>Gulmarg</item>
+        <item>Gurgaon</item>
+        <item>Guwahati</item>
+        <item>Indore</item>
+        <item>Itangar</item>
+        <item>Jabalpur</item>
+        <item>Jaipur</item>
+        <item>Jaisalmer</item>
+        <item>Jalandhar</item>
+        <item>Jammu</item>
+        <item>Jamshedpur</item>
+        <item>Jodhpur</item>
+        <item>Lucknow</item>
+        <item>Ludhiana</item>
+        <item>CSMT Mumbai</item>
+        <item>Z Nizammudin</item>
+        <item>New Delhi</item>
+        <item>Pune</item>
+        <item>Ranchi</item>
+        <item>Ranikhet</item>
+        <item>Surat</item>
+        <item>Thanjavur</item>
+        <item>Thrissur</item>
+        <item>Tirunelveli</item>
+        <item>Trichy</item>
+        <item>Udaipur</item>
+        <item>Valley of Flowers</item>
+        <item>Varanasi</item>
+        <item>Vrindhavan</item>
+        <item>Warangal</item>
+        <item>Wayanad</item>
+        <item>Yercaud</item>
+    </string-array>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_confirmation_page">confirmation_page</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081659552962",
+    "project_id": "e-rail-136f8",
+    "storage_bucket": "e-rail-136f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081659552962:android:ece4bdac6ea1a51fb9b75b",
+        "android_client_info": {
+          "package_name": "com.example.erail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081659552962-v4sg9fs6te9iv35jfe1devqniid6drji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkmaAkneAS8-pr4QwKNB6BH1T1qq37Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081659552962-v4sg9fs6te9iv35jfe1devqniid6drji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
